@@ -2,6 +2,7 @@
 
 Word | Symbol | Unicode | Meaning
 ---- | ------ | ------- | -------
+.    | ⭕      | 2B55    | yes
  o   | ❌      | 274C    | no, not
 |||
 po   |        |         | big, emphasis
